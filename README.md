@@ -1,2 +1,2 @@
 # lung-cancer
-Lung cancer
+Lung cancer project
